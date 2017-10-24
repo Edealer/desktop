@@ -1,1 +1,0 @@
-# eDealer desktop release
